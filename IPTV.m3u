@@ -4,7 +4,7 @@ http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV-2
 http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1,CCTV-3
-http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1,CCTV-4
 http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1,CCTV-5
@@ -14,7 +14,7 @@ http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1,CCTV-7
 http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1,CCTV-8
-http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1,CCTV-9
 http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1,CCTV-10
@@ -32,7 +32,7 @@ http://itv.ahau.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1,北京影视
 http://itv.ahau.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1,北京新闻
-http://itv.ahau.edu.cn/hls/btv9hd.m3u8
+http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1,湖南卫视
 http://itv.ahau.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1,江苏卫视
@@ -68,7 +68,7 @@ http://itv.ahau.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1,东南卫视
 http://itv.ahau.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1,河南卫视
-http://itv.ahau.edu.cn/hls/hnhd.m3u8
+http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1,海南卫视
 http://itv.ahau.edu.cn/hls/lyhd.m3u8
 #EXTINF:-1,体育赛事
