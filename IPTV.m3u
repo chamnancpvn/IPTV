@@ -4,17 +4,17 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
 #EXTINF:-1,CCTV-2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 #EXTINF:-1,CCTV-3
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
 #EXTINF:-1,CCTV-4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 #EXTINF:-1,CCTV-5
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
 #EXTINF:-1,CCTV-6
 http://140.207.241.2:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1,CCTV-7
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 #EXTINF:-1,CCTV-8
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
 #EXTINF:-1,CCTV-9
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1,CCTV-10
@@ -32,7 +32,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
 #EXTINF:-1,CCTV-17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1,体育赛事
-http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 #EXTINF:-1,中国教育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 #EXTINF:-1,东方卫视
@@ -70,7 +70,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 #EXTINF:-1,龙江卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1,天津卫视
-http://39.135.139.199:6610/PLTV/88888888/224/3221225485/2/index.m3u8?fmt=ts2hls
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 #EXTINF:-1,甘肃卫视
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1,吉林卫视
@@ -115,3 +115,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1,凤凰资讯
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1,央广购物
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226319/1.m3u8
+#EXTINF:-1,家有购物
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226429/1.m3u8
