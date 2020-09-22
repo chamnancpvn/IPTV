@@ -79,8 +79,6 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 #EXTINF:-1,甘肃卫视
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1,吉林卫视
-http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1,内蒙卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8?token=
 #EXTINF:-1,陕西卫视
@@ -107,10 +105,12 @@ http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
 #EXTINF:-1,卡酷少儿
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
+#EXTINF:-1,哈哈炫动
+http://140.207.241.2:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1,冬奥纪实
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8
 #EXTINF:-1,纪实人文
-http://39.135.139.199:6610/PLTV/88888888/224/3221225609/2/index.m3u8?fmt=ts2hls
+,http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1,金鹰纪实
 http://39.135.139.199:6610/PLTV/88888888/224/3221225595/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,高清电影
