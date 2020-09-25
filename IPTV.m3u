@@ -89,6 +89,10 @@ http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
 #EXTINF:-1,辽宁卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
+#EXTINF:-1,四川卫视
+http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+#EXTINF:-1,重庆卫视
+http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
 #EXTINF:-1,青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1,卡酷少儿
