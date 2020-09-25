@@ -31,6 +31,10 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
 #EXTINF:-1,CCTV-17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+#EXTINF:-1,中国环球
+http://39.130.215.158:6610/gitv_live/G_CGTN-HD/
+#EXTINF:-1,环球纪录
+http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1,体育赛事
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 #EXTINF:-1,中国教育
