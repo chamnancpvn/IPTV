@@ -309,7 +309,7 @@ http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1, group-title="BUPT", CCTV-14
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1, group-title="BUPT", CCTV-217
+#EXTINF:-1, group-title="BUPT", CCTV-17
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1, group-title="BUPT", 体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
