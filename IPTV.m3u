@@ -1,393 +1,381 @@
 #EXTM3U
-#EXTINF:-1,group-title="IPTV",CCTV-1
+#EXTINF:-1, group-title="IPTV", CCTV-1
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-2
+#EXTINF:-1, group-title="IPTV", CCTV-2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-3
+#EXTINF:-1, group-title="IPTV", CCTV-3
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-4
+#EXTINF:-1, group-title="IPTV", CCTV-4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-5
+#EXTINF:-1, group-title="IPTV", CCTV-5
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-6
+#EXTINF:-1, group-title="IPTV", CCTV-6
 http://140.207.241.2:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-7
+#EXTINF:-1, group-title="IPTV", CCTV-7
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-8
+#EXTINF:-1, group-title="IPTV", CCTV-8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-9
+#EXTINF:-1, group-title="IPTV", CCTV-9
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-10
+#EXTINF:-1, group-title="IPTV", CCTV-10
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-11
+#EXTINF:-1, group-title="IPTV", CCTV-11
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-12
+#EXTINF:-1, group-title="IPTV", CCTV-12
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-13
+#EXTINF:-1, group-title="IPTV", CCTV-13
 http://119.167.231.119/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-14
+#EXTINF:-1, group-title="IPTV", CCTV-14
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-15
+#EXTINF:-1, group-title="IPTV", CCTV-15
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
-#EXTINF:-1,group-title="IPTV",CCTV-17
+#EXTINF:-1, group-title="IPTV", CCTV-17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1,group-title="IPTV",中国环球
+#EXTINF:-1, group-title="IPTV", 中国环球
 http://39.130.215.158:6610/gitv_live/G_CGTN-HD/
-#EXTINF:-1,group-title="IPTV",环球纪录
+#EXTINF:-1, group-title="IPTV", 环球纪录
 http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-#EXTINF:-1,group-title="IPTV",体育赛事
+#EXTINF:-1, group-title="IPTV", 体育赛事
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-#EXTINF:-1,group-title="IPTV",中国教育
+#EXTINF:-1, group-title="IPTV", 中国教育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
-#EXTINF:-1,group-title="IPTV",凤凰中文
+#EXTINF:-1, group-title="IPTV", 凤凰中文
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1,group-title="IPTV",凤凰资讯
+#EXTINF:-1, group-title="IPTV", 凤凰资讯
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1,group-title="IPTV",东方卫视
+#EXTINF:-1, group-title="IPTV", 东方卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1,group-title="IPTV",东南卫视
+#EXTINF:-1, group-title="IPTV", 东南卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226406/1.m3u8
-#EXTINF:-1,group-title="IPTV",北京卫视
+#EXTINF:-1, group-title="IPTV", 北京卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-#EXTINF:-1,group-title="IPTV",北京新闻
+#EXTINF:-1, group-title="IPTV", 北京新闻
 http://39.135.238.102/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
-#EXTINF:-1,group-title="IPTV",北京文艺
+#EXTINF:-1, group-title="IPTV", 北京文艺
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
-#EXTINF:-1,group-title="IPTV",北京影视
+#EXTINF:-1, group-title="IPTV", 北京影视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
-#EXTINF:-1,group-title="IPTV",天津卫视
+#EXTINF:-1, group-title="IPTV", 天津卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-#EXTINF:-1,group-title="IPTV",安徽卫视
+#EXTINF:-1, group-title="IPTV", 安徽卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-#EXTINF:-1,group-title="IPTV",山东卫视
+#EXTINF:-1, group-title="IPTV", 山东卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225894/1.m3u8
-#EXTINF:-1,group-title="IPTV",广东卫视
+#EXTINF:-1, group-title="IPTV", 广东卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
-#EXTINF:-1,group-title="IPTV",江苏卫视
+#EXTINF:-1, group-title="IPTV", 江苏卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1,group-title="IPTV",江西卫视
+#EXTINF:-1, group-title="IPTV", 江西卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-#EXTINF:-1,group-title="IPTV",浙江卫视
+#EXTINF:-1, group-title="IPTV", 浙江卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1,group-title="IPTV",深圳卫视
+#EXTINF:-1, group-title="IPTV", 深圳卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1,group-title="IPTV",湖北卫视
+#EXTINF:-1, group-title="IPTV", 湖北卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
-#EXTINF:-1,group-title="IPTV",湖南卫视
+#EXTINF:-1, group-title="IPTV", 湖南卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-#EXTINF:-1,group-title="IPTV",龙江卫视
+#EXTINF:-1, group-title="IPTV", 龙江卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1,group-title="IPTV",甘肃卫视
+#EXTINF:-1, group-title="IPTV", 甘肃卫视
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1,group-title="IPTV",内蒙卫视
+#EXTINF:-1, group-title="IPTV", 内蒙卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-#EXTINF:-1,group-title="IPTV",陕西卫视
+#EXTINF:-1, group-title="IPTV", 陕西卫视
 http://zycfcdn.gdwlcloud.com:80/PLTV/88888888/224/3221225498/index.m3u8
-#EXTINF:-1,group-title="IPTV",云南卫视
+#EXTINF:-1, group-title="IPTV", 云南卫视
 http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1,group-title="IPTV",贵州卫视
+#EXTINF:-1, group-title="IPTV", 贵州卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
-#EXTINF:-1,group-title="IPTV",辽宁卫视
+#EXTINF:-1, group-title="IPTV", 辽宁卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
-#EXTINF:-1,group-title="IPTV",四川卫视
+#EXTINF:-1, group-title="IPTV", 四川卫视
 http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
-#EXTINF:-1,group-title="IPTV",重庆卫视
+#EXTINF:-1, group-title="IPTV", 重庆卫视
 http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
-#EXTINF:-1,group-title="IPTV",青海卫视
+#EXTINF:-1, group-title="IPTV", 青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1,group-title="IPTV",广西卫视
-http://ivi.bupt.edu.cn/hls/gxhd.m3u8
-#EXTINF:-1,group-title="IPTV",海南卫视
-http://ivi.bupt.edu.cn/hls/lyhd.m3u8
-#EXTINF:-1,group-title="IPTV",吉林卫视
-http://ivi.bupt.edu.cn/hls/jlhd.m3u8
-#EXTINF:-1,group-title="IPTV",河北卫视
-http://ivi.bupt.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1,group-title="IPTV",河南卫视
-http://ivi.bupt.edu.cn/hls/hnhd.m3u8
-#EXTINF:-1,group-title="IPTV",卡酷少儿
+#EXTINF:-1, group-title="IPTV", 卡酷少儿
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
-#EXTINF:-1,group-title="IPTV",冬奥纪实
+#EXTINF:-1, group-title="IPTV", 冬奥纪实
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8
-#EXTINF:-1,group-title="IPTV",纪实人文
+#EXTINF:-1, group-title="IPTV", 纪实人文
 http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1,group-title="IPTV",金鹰纪实
+#EXTINF:-1, group-title="IPTV", 金鹰纪实
 http://39.135.139.199:6610/PLTV/88888888/224/3221225595/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1,group-title="IPTV",家庭影院
+#EXTINF:-1, group-title="IPTV", 家庭影院
 http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1,group-title="IPTV",高清电影
+#EXTINF:-1, group-title="IPTV", 高清电影
 http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1,group-title="IPTV",动作电影
+#EXTINF:-1, group-title="IPTV", 动作电影
 http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1,group-title="China Unicom",CCTV-1
+#EXTINF:-1, group-title="UNICOM", CCTV-1
 rtp://239.3.1.129:8008
-#EXTINF:-1,group-title="China Unicom",CCTV-2
+#EXTINF:-1, group-title="UNICOM", CCTV-2
 rtp://239.3.1.60:8084
-#EXTINF:-1,group-title="China Unicom",CCTV-3
+#EXTINF:-1, group-title="UNICOM", CCTV-3
 rtp://239.3.1.172:8001
-#EXTINF:-1,group-title="China Unicom",CCTV-4
+#EXTINF:-1, group-title="UNICOM", CCTV-4
 rtp://239.3.1.105:8092
-#EXTINF:-1,group-title="China Unicom",CCTV-5
+#EXTINF:-1, group-title="UNICOM", CCTV-5
 rtp://239.3.1.173:8001
-#EXTINF:-1,group-title="China Unicom",CCTV-6
+#EXTINF:-1, group-title="UNICOM", CCTV-6
 rtp://239.3.1.174:8001
-#EXTINF:-1,group-title="China Unicom",CCTV-7
+#EXTINF:-1, group-title="UNICOM", CCTV-7
 rtp://239.3.1.61:8104
-#EXTINF:-1,group-title="China Unicom",CCTV-8
+#EXTINF:-1, group-title="UNICOM", CCTV-8
 rtp://239.3.1.175:8001
-#EXTINF:-1,group-title="China Unicom",CCTV-9
+#EXTINF:-1, group-title="UNICOM", CCTV-9
 rtp://239.3.1.62:8112
-#EXTINF:-1,group-title="China Unicom",CCTV-10
+#EXTINF:-1, group-title="UNICOM", CCTV-10
 rtp://239.3.1.63:8116
-#EXTINF:-1,group-title="China Unicom",CCTV-11
+#EXTINF:-1, group-title="UNICOM", CCTV-11
 rtp://239.3.1.152:8120
-#EXTINF:-1,group-title="China Unicom",CCTV-12
+#EXTINF:-1, group-title="UNICOM", CCTV-12
 rtp://239.3.1.64:8124
-#EXTINF:-1,group-title="China Unicom",CCTV-14
+#EXTINF:-1, group-title="UNICOM", CCTV-14
 rtp://239.3.1.65:8132
-#EXTINF:-1,group-title="China Unicom",CCTV-15
+#EXTINF:-1, group-title="UNICOM", CCTV-15
 rtp://239.3.1.153:8136
-#EXTINF:-1,group-title="China Unicom",CCTV-17
+#EXTINF:-1, group-title="UNICOM", CCTV-17
 rtp://239.3.1.151:8144
-#EXTINF:-1,group-title="China Unicom",体育赛事
+#EXTINF:-1, group-title="UNICOM", 体育赛事
 rtp://239.3.1.130:8004
-#EXTINF:-1,group-title="China Unicom",中国教育
+#EXTINF:-1, group-title="UNICOM", 中国教育
 rtp://239.3.1.57:8152
-#EXTINF:-1,group-title="China Unicom",北京卫视
+#EXTINF:-1, group-title="UNICOM", 北京卫视
 rtp://239.3.1.241:8000
-#EXTINF:-1,group-title="China Unicom",北京新闻
+#EXTINF:-1, group-title="UNICOM", 北京新闻
 rtp://239.3.1.159:8000
-#EXTINF:-1,group-title="China Unicom",北京影视
+#EXTINF:-1, group-title="UNICOM", 北京影视
 rtp://239.3.1.158:8000
-#EXTINF:-1,group-title="China Unicom",北京文艺
+#EXTINF:-1, group-title="UNICOM", 北京文艺
 rtp://239.3.1.242:8000
-#EXTINF:-1,group-title="China Unicom",冬奥纪实
+#EXTINF:-1, group-title="UNICOM", 冬奥纪实
 rtp://239.3.1.243:8000
-#EXTINF:-1,group-title="China Unicom",卡酷少儿
+#EXTINF:-1, group-title="UNICOM", 卡酷少儿
 rtp://239.3.1.189:8000
-#EXTINF:-1,group-title="China Unicom",纪实人文
+#EXTINF:-1, group-title="UNICOM", 纪实人文
 rtp://239.3.1.212:8060
-#EXTINF:-1,group-title="China Unicom",金鹰纪实
+#EXTINF:-1, group-title="UNICOM", 金鹰纪实
 rtp://239.3.1.58:8156
-#EXTINF:-1,group-title="China Unicom",湖南卫视
+#EXTINF:-1, group-title="UNICOM", 湖南卫视
 rtp://239.3.1.132:8012
-#EXTINF:-1,group-title="China Unicom",东方卫视
+#EXTINF:-1, group-title="UNICOM", 东方卫视
 rtp://239.3.1.136:8032
-#EXTINF:-1,group-title="China Unicom",浙江卫视
+#EXTINF:-1, group-title="UNICOM", 浙江卫视
 rtp://239.3.1.137:8036
-#EXTINF:-1,group-title="China Unicom",江苏卫视
+#EXTINF:-1, group-title="UNICOM", 江苏卫视
 rtp://239.3.1.135:8028
-#EXTINF:-1,group-title="China Unicom",深圳卫视
+#EXTINF:-1, group-title="UNICOM", 深圳卫视
 rtp://239.3.1.134:8020
-#EXTINF:-1,group-title="China Unicom",广东卫视
+#EXTINF:-1, group-title="UNICOM", 广东卫视
 rtp://239.3.1.142:8048
-#EXTINF:-1,group-title="China Unicom",安徽卫视
+#EXTINF:-1, group-title="UNICOM", 安徽卫视
 rtp://239.3.1.211:8064
-#EXTINF:-1,group-title="China Unicom",天津卫视
+#EXTINF:-1, group-title="UNICOM", 天津卫视
 rtp://239.3.1.141:1234
-#EXTINF:-1,group-title="China Unicom",山东卫视
+#EXTINF:-1, group-title="UNICOM", 山东卫视
 rtp://239.3.1.209:8052
-#EXTINF:-1,group-title="China Unicom",龙江卫视
+#EXTINF:-1, group-title="UNICOM", 龙江卫视
 rtp://239.3.1.133:8016
-#EXTINF:-1,group-title="China Unicom",河北卫视
+#EXTINF:-1, group-title="UNICOM", 河北卫视
 rtp://239.3.1.148:8072
-#EXTINF:-1,group-title="China Unicom",辽宁卫视
+#EXTINF:-1, group-title="UNICOM", 辽宁卫视
 rtp://239.3.1.210:8056
-#EXTINF:-1,group-title="China Unicom",湖北卫视
+#EXTINF:-1, group-title="UNICOM", 湖北卫视
 rtp://239.3.1.138:8044
-#EXTINF:-1,group-title="China Unicom",贵州卫视
+#EXTINF:-1, group-title="UNICOM", 贵州卫视
 rtp://239.3.1.149:8076
-#EXTINF:-1,group-title="China Unicom",东南卫视
+#EXTINF:-1, group-title="UNICOM", 东南卫视
 rtp://239.3.1.156:8148
-#EXTINF:-1,group-title="AHAU",CCTV-1
+#EXTINF:-1, group-title="AHAU", CCTV-1
 http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-2
+#EXTINF:-1, group-title="AHAU", CCTV-2
 http://[2001:250:5405:13::47]/hls/cctv2hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-3
+#EXTINF:-1, group-title="AHAU", CCTV-3
 http://[2001:250:5405:13::47]/hls/cctv3hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-4
+#EXTINF:-1, group-title="AHAU", CCTV-4
 http://[2001:250:5405:13::47]/hls/cctv4hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-5
+#EXTINF:-1, group-title="AHAU", CCTV-5
 http://[2001:250:5405:13::47]/hls/cctv5hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-6
+#EXTINF:-1, group-title="AHAU", CCTV-6
 http://[2001:250:5405:13::47]/hls/cctv6hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-7
+#EXTINF:-1, group-title="AHAU", CCTV-7
 http://[2001:250:5405:13::47]/hls/cctv7hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-8
+#EXTINF:-1, group-title="AHAU", CCTV-8
 http://[2001:250:5405:13::47]/hls/cctv8hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-9
+#EXTINF:-1, group-title="AHAU", CCTV-9
 http://[2001:250:5405:13::47]/hls/cctv9hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-10
+#EXTINF:-1, group-title="AHAU", CCTV-10
 http://[2001:250:5405:13::47]/hls/cctv10hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-11 
+#EXTINF:-1, group-title="AHAU", CCTV-11 
 http://[2001:250:5405:13::47]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-12
+#EXTINF:-1, group-title="AHAU", CCTV-12
 http://[2001:250:5405:13::47]/hls/cctv12hd.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-14
+#EXTINF:-1, group-title="AHAU", CCTV-14
 http://[2001:250:5405:13::47]/hls/cctv14.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-15 
+#EXTINF:-1, group-title="AHAU", CCTV-15 
 http://[2001:250:5405:13::47]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-#EXTINF:-1,group-title="AHAU",CCTV-17
+#EXTINF:-1, group-title="AHAU", CCTV-17
 http://[2001:250:5405:13::47]/hls/cctv17hd.m3u8
-#EXTINF:-1,group-title="AHAU",体育赛事
+#EXTINF:-1, group-title="AHAU", 体育赛事
 http://[2001:250:5405:13::47]/hls/cctv5phd.m3u8
-#EXTINF:-1,group-title="AHAU",中国环球
+#EXTINF:-1, group-title="AHAU", 中国环球
 http://[2001:250:5405:13::47]/hls/hls67a43.m3u8
-#EXTINF:-1,group-title="AHAU",中国教育 
+#EXTINF:-1, group-title="AHAU", 中国教育 
 http://[2001:250:5405:13::47]/hls/cetv1hd.m3u8
-#EXTINF:-1,group-title="AHAU",东南卫视
+#EXTINF:-1, group-title="AHAU", 东南卫视
 http://[2001:250:5405:13::47]/hls/dnhd.m3u8
-#EXTINF:-1,group-title="AHAU",东方卫视
+#EXTINF:-1, group-title="AHAU", 东方卫视
 http://[2001:250:5405:13::47]/hls/dfhd.m3u8
-#EXTINF:-1,group-title="AHAU",北京卫视  
+#EXTINF:-1, group-title="AHAU", 北京卫视  
 http://[2001:250:5405:13::47]/hls/btv1.m3u8
-#EXTINF:-1,group-title="AHAU",北京文艺
+#EXTINF:-1, group-title="AHAU", 北京文艺
 http://[2001:250:5405:13::47]/hls/btv2hd.m3u8
-#EXTINF:-1,group-title="AHAU",北京影视
+#EXTINF:-1, group-title="AHAU", 北京影视
 http://[2001:250:5405:13::47]/hls/btv4hd.m3u8
-#EXTINF:-1,group-title="AHAU",北京新闻
+#EXTINF:-1, group-title="AHAU", 北京新闻
 http://[2001:250:5405:13::47]/hls/btv9hd.m3u8
-#EXTINF:-1,group-title="AHAU",吉林卫视  
+#EXTINF:-1, group-title="AHAU", 吉林卫视  
 http://[2001:250:5405:13::47]/hls/jlhd.m3u8
-#EXTINF:-1,group-title="AHAU",四川卫视
+#EXTINF:-1, group-title="AHAU", 四川卫视
 http://[2001:250:5405:13::47]/hls/schd.m3u8
-#EXTINF:-1,group-title="AHAU",天津卫视
+#EXTINF:-1, group-title="AHAU", 天津卫视
 http://[2001:250:5405:13::47]/hls/tjhd.m3u8
-#EXTINF:-1,group-title="AHAU",安徽卫视 
+#EXTINF:-1, group-title="AHAU", 安徽卫视 
 http://[2001:250:5405:13::47]/hls/hls141.m3u8
-#EXTINF:-1,group-title="AHAU",山东卫视
+#EXTINF:-1, group-title="AHAU", 山东卫视
 http://[2001:250:5405:13::47]/hls/sdhd.m3u8
-#EXTINF:-1,group-title="AHAU",广东卫视
+#EXTINF:-1, group-title="AHAU", 广东卫视
 http://[2001:250:5405:13::47]/hls/gdhd.m3u8
-#EXTINF:-1,group-title="AHAU",广西卫视
+#EXTINF:-1, group-title="AHAU", 广西卫视
 http://[2001:250:5405:13::47]/hls/gxhd.m3u8
-#EXTINF:-1,group-title="AHAU",江苏卫视
+#EXTINF:-1, group-title="AHAU", 江苏卫视
 http://[2001:250:5405:13::47]/hls/jshd.m3u8
-#EXTINF:-1,group-title="AHAU",江西卫视
+#EXTINF:-1, group-title="AHAU", 江西卫视
 http://[2001:250:5405:13::47]/hls/jxhd.m3u8
-#EXTINF:-1,group-title="AHAU",河北卫视
+#EXTINF:-1, group-title="AHAU", 河北卫视
 http://[2001:250:5405:13::47]/hls/hebhd.m3u8
-#EXTINF:-1,group-title="AHAU",浙江卫视
+#EXTINF:-1, group-title="AHAU", 浙江卫视
 http://[2001:250:5405:13::47]/hls/zjhd.m3u8
-#EXTINF:-1,group-title="AHAU",海南卫视
+#EXTINF:-1, group-title="AHAU", 海南卫视
 http://[2001:250:5405:13::47]/hls/lyhd.m3u8
-#EXTINF:-1,group-title="AHAU",深圳卫视
+#EXTINF:-1, group-title="AHAU", 深圳卫视
 http://[2001:250:5405:13::47]/hls/szhd.m3u8
-#EXTINF:-1,group-title="AHAU",湖北卫视
+#EXTINF:-1, group-title="AHAU", 湖北卫视
 http://[2001:250:5405:13::47]/hls/hbhd.m3u8
-#EXTINF:-1,group-title="AHAU",河南卫视
+#EXTINF:-1, group-title="AHAU", 河南卫视
 http://[2001:250:5405:13::47]/hls/hnhd.m3u8
-#EXTINF:-1,group-title="AHAU",湖南卫视
+#EXTINF:-1, group-title="AHAU", 湖南卫视
 http://[2001:250:5405:13::47]/hls/hunanhd.m3u8
-#EXTINF:-1,group-title="AHAU",辽宁卫视  
+#EXTINF:-1, group-title="AHAU", 辽宁卫视  
 http://[2001:250:5405:13::47]/hls/hls126.m3u8
-#EXTINF:-1,group-title="AHAU",重庆卫视
+#EXTINF:-1, group-title="AHAU", 重庆卫视
 http://[2001:250:5405:13::47]/hls/cqhd.m3u8
-#EXTINF:-1,group-title="AHAU",龙江卫视  
+#EXTINF:-1, group-title="AHAU", 龙江卫视  
 http://[2001:250:5405:13::47]/hls/hls95.m3u8
-#EXTINF:-1,group-title="AHAU",高清电影  
+#EXTINF:-1, group-title="AHAU", 高清电影  
 http://[2001:250:5405:13::47]/hls/chchd.m3u8
-#EXTINF:-1,group-title="AHAU",纪实人文
+#EXTINF:-1, group-title="AHAU", 纪实人文
 http://[2001:250:5405:13::47]/hls/docuchina.m3u8
-#EXTINF:-1,group-title="AHAU",冬奥纪实
+#EXTINF:-1, group-title="AHAU", 冬奥纪实
 http://[2001:250:5405:13::47]/hls/btv11hd.m3u8
-#EXTINF:-1,group-title="AHAU",金鹰纪实
+#EXTINF:-1, group-title="AHAU", 金鹰纪实
 http://[2001:250:5405:13::47]/hls/gedocu.m3u8
-#EXTINF:-1,group-title="AHAU",环球纪实
+#EXTINF:-1, group-title="AHAU", 环球纪实
 http://[2001:250:5405:13::47]/hls/hls67a44.m3u8
-#EXTINF:-1,group-title="AHAU",求索纪录
-http://[2001:250:5405:13::47]:82/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1,group-title="AHAU",足球频道 
+#EXTINF:-1, group-title="AHAU", 足球频道 
 http://[2001:250:5405:13::47]/hls/zqhd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-1
+#EXTINF:-1, group-title="BUPT", CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-2
+#EXTINF:-1, group-title="BUPT", CCTV-2
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-3
+#EXTINF:-1, group-title="BUPT", CCTV-3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-4
+#EXTINF:-1, group-title="BUPT", CCTV-4
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-6
+#EXTINF:-1, group-title="BUPT", CCTV-6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-7
+#EXTINF:-1, group-title="BUPT", CCTV-7
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-8
+#EXTINF:-1, group-title="BUPT", CCTV-8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-9
+#EXTINF:-1, group-title="BUPT", CCTV-9
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-10
+#EXTINF:-1, group-title="BUPT", CCTV-10
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-12
+#EXTINF:-1, group-title="BUPT", CCTV-12
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-14
+#EXTINF:-1, group-title="BUPT", CCTV-14
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1,group-title="BUPT",CCTV-217
+#EXTINF:-1, group-title="BUPT", CCTV-217
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
-#EXTINF:-1,group-title="BUPT",体育赛事
+#EXTINF:-1, group-title="BUPT", 体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1,group-title="BUPT",中国教育 
+#EXTINF:-1, group-title="BUPT", 中国教育 
 http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1,group-title="BUPT",中国环球
+#EXTINF:-1, group-title="BUPT", 中国环球
 http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
-#EXTINF:-1,group-title="BUPT",北京卫视
+#EXTINF:-1, group-title="BUPT", 北京卫视
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1,group-title="BUPT",北京文艺
+#EXTINF:-1, group-title="BUPT", 北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1,group-title="BUPT",北京新闻
+#EXTINF:-1, group-title="BUPT", 北京新闻
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1,group-title="BUPT",北京影视
+#EXTINF:-1, group-title="BUPT", 北京影视
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1,group-title="BUPT",湖南卫视
+#EXTINF:-1, group-title="BUPT", 湖南卫视
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1,group-title="BUPT",江苏卫视
+#EXTINF:-1, group-title="BUPT", 江苏卫视
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1,group-title="BUPT",东方卫视
+#EXTINF:-1, group-title="BUPT", 东方卫视
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1,group-title="BUPT",浙江卫视
+#EXTINF:-1, group-title="BUPT", 浙江卫视
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1,group-title="BUPT",吉林卫视  
+#EXTINF:-1, group-title="BUPT", 吉林卫视  
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
-#EXTINF:-1,group-title="BUPT",四川卫视
+#EXTINF:-1, group-title="BUPT", 四川卫视
 http://ivi.bupt.edu.cn/hls/schd.m3u8
-#EXTINF:-1,group-title="BUPT",天津卫视
+#EXTINF:-1, group-title="BUPT", 天津卫视
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1,group-title="BUPT",山东卫视
+#EXTINF:-1, group-title="BUPT", 山东卫视
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1,group-title="BUPT",广东卫视
+#EXTINF:-1, group-title="BUPT", 广东卫视
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1,group-title="BUPT",广西卫视
+#EXTINF:-1, group-title="BUPT", 广西卫视
 http://ivi.bupt.edu.cn/hls/gxhd.m3u8
-#EXTINF:-1,group-title="BUPT",江西卫视
+#EXTINF:-1, group-title="BUPT", 江西卫视
 http://ivi.bupt.edu.cn/hls/jxhd.m3u8
-#EXTINF:-1,group-title="BUPT",河北卫视
+#EXTINF:-1, group-title="BUPT", 河北卫视
 http://ivi.bupt.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1,group-title="BUPT",海南卫视
+#EXTINF:-1, group-title="BUPT", 海南卫视
 http://ivi.bupt.edu.cn/hls/lyhd.m3u8
-#EXTINF:-1,group-title="BUPT",深圳卫视
+#EXTINF:-1, group-title="BUPT", 深圳卫视
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1,group-title="BUPT",湖北卫视
+#EXTINF:-1, group-title="BUPT", 湖北卫视
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1,group-title="BUPT",重庆卫视
+#EXTINF:-1, group-title="BUPT", 重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1,group-title="BUPT",安徽卫视
+#EXTINF:-1, group-title="BUPT", 安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1,group-title="BUPT",河南卫视
+#EXTINF:-1, group-title="BUPT", 河南卫视
 http://ivi.bupt.edu.cn/hls/hnhd.m3u8
-#EXTINF:-1,group-title="BUPT",辽宁卫视
+#EXTINF:-1, group-title="BUPT", 辽宁卫视
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1,group-title="BUPT",龙江卫视
+#EXTINF:-1, group-title="BUPT", 龙江卫视
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1,group-title="BUPT",贵州卫视
+#EXTINF:-1, group-title="BUPT", 贵州卫视
 http://ivi.bupt.edu.cn/hls/gzhd.m3u8
-#EXTINF:-1,group-title="BUPT",东南卫视
+#EXTINF:-1, group-title="BUPT", 东南卫视
 http://ivi.bupt.edu.cn/hls/dnhd.m3u8
-#EXTINF:-1,group-title="BUPT",高清电影 
+#EXTINF:-1, group-title="BUPT", 高清电影 
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,group-title="BUPT",环球纪录
+#EXTINF:-1, group-title="BUPT", 环球纪录
 http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
-#EXTINF:-1,group-title="BUPT",冬奥纪实
+#EXTINF:-1, group-title="BUPT", 冬奥纪实
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1,group-title="BUPT",纪实人文
+#EXTINF:-1, group-title="BUPT", 纪实人文
 http://ivi.bupt.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1,group-title="BUPT",金鹰纪实
+#EXTINF:-1, group-title="BUPT", 金鹰纪实
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
