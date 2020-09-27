@@ -1,6 +1,4 @@
 #EXTM3U
-
-#IPTV
 #EXTINF:-1,group-title="IPTV",CCTV-1
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
 #EXTINF:-1,group-title="IPTV",CCTV-2
@@ -121,8 +119,6 @@ http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/inde
 http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1,group-title="IPTV",动作电影
 http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
-#China Unicom
 #EXTINF:-1,group-title="China Unicom",CCTV-1
 rtp://239.3.1.129:8008
 #EXTINF:-1,group-title="China Unicom",CCTV-2
@@ -203,8 +199,6 @@ rtp://239.3.1.138:8044
 rtp://239.3.1.149:8076
 #EXTINF:-1,group-title="China Unicom",东南卫视
 rtp://239.3.1.156:8148
-
-#AHAU
 #EXTINF:-1,group-title="AHAU",CCTV-1
 http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
 #EXTINF:-1,group-title="AHAU",CCTV-2
@@ -305,8 +299,6 @@ http://[2001:250:5405:13::47]/hls/hls67a44.m3u8
 http://[2001:250:5405:13::47]:82/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1,group-title="AHAU",足球频道 
 http://[2001:250:5405:13::47]/hls/zqhd.m3u8
-
-#BUPT
 #EXTINF:-1,group-title="BUPT",CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,group-title="BUPT",CCTV-2
