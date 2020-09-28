@@ -40,7 +40,7 @@ http://[2001:250:5405:13::47]/hls/dnhd.m3u8
 #EXTINF:-1,东方卫视
 http://[2001:250:5405:13::47]/hls/dfhd.m3u8
 #EXTINF:-1,北京卫视  
-http://[2001:250:5405:13::47]/hls/btv1.m3u8
+http://[2001:250:5405:13::47]/hls/btv1hd.m3u8
 #EXTINF:-1,北京文艺
 http://[2001:250:5405:13::47]/hls/btv2hd.m3u8
 #EXTINF:-1,北京影视
