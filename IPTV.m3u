@@ -177,6 +177,8 @@ http://[2001:250:5405:13::47]/hls/gedocu.m3u8
 http://[2001:250:5405:13::47]/hls/hls67a44.m3u8
 #EXTINF:-1, group-title="AHAU", 足球频道 
 http://[2001:250:5405:13::47]/hls/zqhd.m3u8
+#EXTINF:-1, group-title="AHAU", 求索纪录
+http://[2001:250:5405:13::47]:82/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1, group-title="BUPT", CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1, group-title="BUPT", CCTV-2
