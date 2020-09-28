@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, group-title="UNICOM", CCTV-1#http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
-rtp://139.3.1.129:8008
+#EXTINF:-1, group-title="UNICOM", CCTV-1 
+rtp://239.3.1.129:8008
 #EXTINF:-1, group-title="UNICOM", CCTV-2
 rtp://239.3.1.60:8084
 #EXTINF:-1, group-title="UNICOM", CCTV-3
