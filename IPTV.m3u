@@ -99,7 +99,27 @@ http://[2001:250:5405:13::47]/hls/gedocu.m3u8
 http://[2001:250:5405:13::47]:82/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 group-title="AHAU",环球纪录
 http://[2001:250:5405:13::47]/hls/hls67a44.m3u8
- 
+#EXTINF:-1 group-title="AHAU",福建动画
+http://[2001:250:5405:13::47]/PLTV/88888888/224/3221226732/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东教育
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221226049/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东齐鲁
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221226045/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东体育
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221226075/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东公共
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221226077/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东农科
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221226018/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东少儿
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221226195/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东影视
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东生活
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221225841/1.m3u8
+#EXTINF:-1 group-title="AHAU",山东综艺
+http://[2001:250:5405:13::47]:83/PLTV/88888888/224/3221225855/1.m3u8
+
 #EXTINF:-1 group-title="BUPT",CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="BUPT",CCTV-2
