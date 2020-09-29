@@ -99,7 +99,7 @@ http://[2001:250:5405:13::47]/hls/gedocu.m3u8
 http://[2001:250:5405:13::47]:82/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 group-title="AHAU",环球纪录
 http://[2001:250:5405:13::47]/hls/hls67a44.m3u8
-#EXTM3U
+ 
 #EXTINF:-1 group-title="BUPT",CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="BUPT",CCTV-2
@@ -190,84 +190,84 @@ http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 group-title="BUPT",金鹰纪实
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-1
+ 
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-1
 rtp://239.3.1.129:8008
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-2
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-2
 rtp://239.3.1.60:8084
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-3
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-3
 rtp://239.3.1.172:8001
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-4
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-4
 rtp://239.3.1.105:8092
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-5
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-5
 rtp://239.3.1.173:8001
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-6
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-6
 rtp://239.3.1.174:8001
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-7
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-7
 rtp://239.3.1.61:8104
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-8
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-8
 rtp://239.3.1.175:8001
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-9
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-9
 rtp://239.3.1.62:8112
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-10
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-10
 rtp://239.3.1.63:8116
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-11
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-11
 rtp://239.3.1.152:8120
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-12
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-12
 rtp://239.3.1.64:8124
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-14
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-14
 rtp://239.3.1.65:8132
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-15
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-15
 rtp://239.3.1.153:8136
-#EXTINF:-1 group-title="UNICOM",CCTV-1CCTV-17
+#EXTINF:-1 group-title="IPTV",CCTV-1CCTV-17
 rtp://239.3.1.151:8144
-#EXTINF:-1 group-title="UNICOM",CCTV-1体育赛事
+#EXTINF:-1 group-title="IPTV",CCTV-1体育赛事
 rtp://239.3.1.130:8004
-#EXTINF:-1 group-title="UNICOM",CCTV-1中国教育
+#EXTINF:-1 group-title="IPTV",CCTV-1中国教育
 rtp://239.3.1.57:8152
-#EXTINF:-1 group-title="UNICOM",CCTV-1北京卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1北京卫视
 rtp://239.3.1.241:8000
-#EXTINF:-1 group-title="UNICOM",CCTV-1北京文艺
+#EXTINF:-1 group-title="IPTV",CCTV-1北京文艺
 rtp://239.3.1.242:8000
-#EXTINF:-1 group-title="UNICOM",CCTV-1北京新闻
+#EXTINF:-1 group-title="IPTV",CCTV-1北京新闻
 rtp://239.3.1.159:8000
-#EXTINF:-1 group-title="UNICOM",CCTV-1北京影视
+#EXTINF:-1 group-title="IPTV",CCTV-1北京影视
 rtp://239.3.1.158:8000
-#EXTINF:-1 group-title="UNICOM",CCTV-1卡酷动画
+#EXTINF:-1 group-title="IPTV",CCTV-1卡酷动画
 rtp://239.3.1.189:8000
-#EXTINF:-1 group-title="UNICOM",CCTV-1湖南卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1湖南卫视
 rtp://239.3.1.132:8012
-#EXTINF:-1 group-title="UNICOM",CCTV-1江苏卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1江苏卫视
 rtp://239.3.1.135:8028
-#EXTINF:-1 group-title="UNICOM",CCTV-1东方卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1东方卫视
 rtp://239.3.1.136:8032
-#EXTINF:-1 group-title="UNICOM",CCTV-1浙江卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1浙江卫视
 rtp://239.3.1.137:8036
-#EXTINF:-1 group-title="UNICOM",CCTV-1天津卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1天津卫视
 rtp://239.3.1.141:1234
-#EXTINF:-1 group-title="UNICOM",CCTV-1山东卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1山东卫视
 rtp://239.3.1.209:8052
-#EXTINF:-1 group-title="UNICOM",CCTV-1广东卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1广东卫视
 rtp://239.3.1.142:8048
-#EXTINF:-1 group-title="UNICOM",CCTV-1河北卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1河北卫视
 rtp://239.3.1.148:8072
-#EXTINF:-1 group-title="UNICOM",CCTV-1深圳卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1深圳卫视
 rtp://239.3.1.134:8020
-#EXTINF:-1 group-title="UNICOM",CCTV-1湖北卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1湖北卫视
 rtp://239.3.1.138:8044
-#EXTINF:-1 group-title="UNICOM",CCTV-1安徽卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1安徽卫视
 rtp://239.3.1.211:8064
-#EXTINF:-1 group-title="UNICOM",CCTV-1辽宁卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1辽宁卫视
 rtp://239.3.1.210:8056
-#EXTINF:-1 group-title="UNICOM",CCTV-1龙江卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1龙江卫视
 rtp://239.3.1.133:8016
-#EXTINF:-1 group-title="UNICOM",CCTV-1贵州卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1贵州卫视
 rtp://239.3.1.149:8076
-#EXTINF:-1 group-title="UNICOM",CCTV-1东南卫视
+#EXTINF:-1 group-title="IPTV",CCTV-1东南卫视
 rtp://239.3.1.156:8148
-#EXTINF:-1 group-title="UNICOM",CCTV-1冬奥纪实
+#EXTINF:-1 group-title="IPTV",CCTV-1冬奥纪实
 rtp://239.3.1.243:8000
-#EXTINF:-1 group-title="UNICOM",CCTV-1纪实人文
+#EXTINF:-1 group-title="IPTV",CCTV-1纪实人文
 rtp://239.3.1.212:8060
-#EXTINF:-1 group-title="UNICOM",CCTV-1金鹰纪实
+#EXTINF:-1 group-title="IPTV",CCTV-1金鹰纪实
 rtp://239.3.1.58:8156
