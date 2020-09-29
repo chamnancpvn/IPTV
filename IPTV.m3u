@@ -1,6 +1,85 @@
 #EXTM3U
 
-#AHAU
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
+rtp://239.3.1.129:8008
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
+rtp://239.3.1.60:8084
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
+rtp://239.3.1.172:8001
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
+rtp://239.3.1.105:8092
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+rtp://239.3.1.173:8001
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
+rtp://239.3.1.174:8001
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
+rtp://239.3.1.61:8104
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
+rtp://239.3.1.175:8001
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9
+rtp://239.3.1.62:8112
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10
+rtp://239.3.1.63:8116
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11
+rtp://239.3.1.152:8120
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12
+rtp://239.3.1.64:8124
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
+rtp://239.3.1.65:8132
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
+rtp://239.3.1.153:8136
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
+rtp://239.3.1.151:8144
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+rtp://239.3.1.130:8004
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1台
+rtp://239.3.1.57:8152
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
+rtp://239.3.1.241:8000
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",BTV文艺
+rtp://239.3.1.242:8000
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png",BTV新闻
+rtp://239.3.1.159:8000
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png",BTV影视
+rtp://239.3.1.158:8000
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",卡酷动画
+rtp://239.3.1.189:8000
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
+rtp://239.3.1.132:8012
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
+rtp://239.3.1.135:8028
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
+rtp://239.3.1.136:8032
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
+rtp://239.3.1.137:8036
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视
+rtp://239.3.1.141:1234
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
+rtp://239.3.1.209:8052
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
+rtp://239.3.1.142:8048
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
+rtp://239.3.1.148:8072
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
+rtp://239.3.1.134:8020
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
+rtp://239.3.1.138:8044
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
+rtp://239.3.1.211:8064
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
+rtp://239.3.1.210:8056
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
+rtp://239.3.1.133:8016
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
+rtp://239.3.1.149:8076
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
+rtp://239.3.1.156:8148
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",北京纪实
+rtp://239.3.1.243:8000
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
+rtp://239.3.1.212:8060
+#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
+rtp://239.3.1.58:8156
 
 #EXTINF:-1 group-title="AHAU" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
@@ -103,9 +182,6 @@ http://[2001:250:5405:13::47]:82/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 group-title="AHAU" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTNDocumentary
 http://[2001:250:5405:13::47]/hls/hls67a44.m3u8
 
-#BUPT
-
-#EXTM3U
 #EXTINF:-1 group-title="BUPT" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="BUPT" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
@@ -198,87 +274,3 @@ http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 group-title="BUPT" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
-
-#UNICOM
-
-#EXTM3U
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
-rtp://239.3.1.129:8008
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
-rtp://239.3.1.60:8084
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
-rtp://239.3.1.172:8001
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
-rtp://239.3.1.105:8092
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
-rtp://239.3.1.173:8001
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
-rtp://239.3.1.174:8001
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
-rtp://239.3.1.61:8104
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
-rtp://239.3.1.175:8001
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9
-rtp://239.3.1.62:8112
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10
-rtp://239.3.1.63:8116
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11
-rtp://239.3.1.152:8120
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12
-rtp://239.3.1.64:8124
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
-rtp://239.3.1.65:8132
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
-rtp://239.3.1.153:8136
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
-rtp://239.3.1.151:8144
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
-rtp://239.3.1.130:8004
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1台
-rtp://239.3.1.57:8152
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
-rtp://239.3.1.241:8000
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",BTV文艺
-rtp://239.3.1.242:8000
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png",BTV新闻
-rtp://239.3.1.159:8000
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png",BTV影视
-rtp://239.3.1.158:8000
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",卡酷动画
-rtp://239.3.1.189:8000
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
-rtp://239.3.1.132:8012
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
-rtp://239.3.1.135:8028
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
-rtp://239.3.1.136:8032
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
-rtp://239.3.1.137:8036
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视
-rtp://239.3.1.141:1234
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
-rtp://239.3.1.209:8052
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
-rtp://239.3.1.142:8048
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
-rtp://239.3.1.148:8072
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
-rtp://239.3.1.134:8020
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
-rtp://239.3.1.138:8044
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
-rtp://239.3.1.211:8064
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
-rtp://239.3.1.210:8056
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
-rtp://239.3.1.133:8016
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
-rtp://239.3.1.149:8076
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
-rtp://239.3.1.156:8148
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",北京纪实
-rtp://239.3.1.243:8000
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
-rtp://239.3.1.212:8060
-#EXTINF:-1 group-title="IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实
-rtp://239.3.1.58:8156
