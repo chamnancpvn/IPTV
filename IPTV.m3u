@@ -103,3 +103,7 @@ http://[2001:250:5405:13::47]/hls/fyzqtv.m3u8
 http://[2001:250:5405:13::47]/hls/dyjctv.m3u8
 #EXTINF:-1,兵器科技
 http://[2001:250:5405:13::47]/hls/gfjstv.m3u8
+#EXTINF:-1,女性时尚
+http://[2001:250:5405:13::47]/hls/hls44.m3u8
+#EXTINF:-1,怀旧剧场
+http://[2001:250:5405:13::47]/hls/hjjctv.m3u8
