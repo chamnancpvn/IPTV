@@ -95,6 +95,8 @@ http://[2001:250:5405:13::47]/hls/gedocu.m3u8
 http://[2001:250:5405:13::47]/hls/hls67a44.m3u8
 #EXTINF:-1,上海教育
 http://itv.ahau.edu.cn/slive/shedu02_1200k.m3u8
+#EXTINF:-1,足球频道
+http://[2001:250:5405:13::47]/hls/zqhd.m3u8
 #EXTINF:-1,风云足球
 http://[2001:250:5405:13::47]/hls/fyzqtv.m3u8
 #EXTINF:-1,第一剧场
