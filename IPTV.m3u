@@ -49,6 +49,8 @@ http://ivi6.bupt.edu.cn/hls/btv2hd.m3u8
 http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-name="BTV新闻",北京新闻
 http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿",卡酷少儿
+rtp://239.3.1.189:8000
 #EXTINF:-1 tvg-name="东方卫视",东方卫视
 http://ivi6.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视
