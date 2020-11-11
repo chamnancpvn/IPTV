@@ -109,19 +109,3 @@ http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
 http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1 tvg-name="足球频道",足球频道
 http://hdtv.haust.edu.cn/hls/zqhd.m3u8
-#EXTINF:-1 tvg-name="湖南经视",湖南经视
-http://kjol.cc/proxy/hunan.php?id=280
-#EXTINF:-1 tvg-name="湖南都市",湖南都市
-http://kjol.cc/proxy/hunan.php?id=346
-#EXTINF:-1 tvg-name="湖南公共",湖南公共
-http://kjol.cc/proxy/hunan.php?id=261
-#EXTINF:-1 tvg-name="湖南娱乐",湖南娱乐
-http://kjol.cc/proxy/hunan.php?id=344
-#EXTINF:-1 tvg-name="湖南视剧",湖南视剧
-http://kjol.cc/proxy/hunan.php?id=484
-#EXTINF:-1 tvg-name="湖南国际",湖南国际
-http://kjol.cc/proxy/hunan.php?id=229
-#EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
-http://kjol.cc/proxy/hunan.php?id=287
-#EXTINF:-1 tvg-name="先锋兵羽",先锋兵羽
-http://kjol.cc/proxy/hunan.php?id=329
